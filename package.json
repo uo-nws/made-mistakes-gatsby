@@ -1,8 +1,8 @@
 {
-  "name": "made-mistakes",
-  "description": "Personal website of Michael Rose.",
+  "name": "uo",
+  "description": "2L",
   "version": "2.0.0",
-  "author": "Michael Rose",
+  "author": "2L",
   "keywords": [
     "gatsby",
     "minimal",
@@ -92,5 +92,7 @@
   "browserslist": [
     "> 0.25%",
     "not dead"
-  ]
+  ],
+  "main": "index.js",
+  "repository": "https://github.com/uo-nws/made-mistakes-gatsby.git"
 }
